@@ -45,7 +45,7 @@ for i=1:M/2
 end
 yhat=2*L*real(yhat);
 yhat=yhat(1:length(x));
-e=e(1:length(x));
+e=2*L*e(1:length(x));
 end
 
 %
