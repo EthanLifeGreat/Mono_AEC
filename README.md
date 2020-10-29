@@ -1,5 +1,5 @@
 # Mono_AEC
-
+[中文版](https://github.com/EthanLifeGreat/Mono_AEC/blob/master/README.cn.md)
 #### Description
 Monophonic Acoustic Echo Cancellation (AEC) demo.
 
